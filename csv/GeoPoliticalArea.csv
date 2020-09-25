@@ -1,0 +1,8 @@
+﻿politicalAreaId,country,type,name,code,parentId,aliases
+1,India,COUNTY,India,IND,,Bharat
+2,India,STATE,UP,UP,1,UP
+3,India,STATE,Delhi,DL,1,Dilli
+4,India,STATE,Karnataka,KA,1,Karnataka
+5,India,DISTRICT,Lucknow,LKO,2,Lucknow
+6,India,DISTRICT,Bangalore,BLR,4,Bengaluru
+7,India,DISTRICT,Central Delhi,CD,3,Central Dilli
